@@ -105,6 +105,15 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.navbar-custom {
+    background-color: #D4E6B5 !important;
+}
+
+.navbar-custom .nav-link,
+.navbar-custom .navbar-brand {
+    color: #333; 
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
