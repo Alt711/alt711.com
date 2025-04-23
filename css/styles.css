@@ -77,6 +77,12 @@
   --bs-link-hover-color: #974a2d;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
+/* My Custom Colors */
+  --bg-alt-yellow: #f0ce41;
+  --bg-alt-orange: #ff5a00;
+  --bg-alt-lightred: #e10044;
+  --bg-alt-darkred: #a7004c;
+  --bg-alt-purple: #5a1d57;
 }
 
 *,
