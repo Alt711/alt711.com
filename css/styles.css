@@ -10904,6 +10904,7 @@ p.lead {
 }
 
 #sideNav {
+  top: 56px;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -10922,7 +10923,6 @@ p.lead {
     padding-right: 0;
     text-align: center;
     position: fixed;
-    top: 56px;
     left: 0;
     display: flex;
     flex-direction: column;
