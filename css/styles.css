@@ -10904,7 +10904,10 @@ p.lead {
 }
 
 #sideNav {
-  top: 56px;
+  top: 56px !important;
+}
+
+#sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
 }
